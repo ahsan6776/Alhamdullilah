@@ -12,3 +12,8 @@ body{
 .width img{
     width: 100%;
 }
+button{
+    color: orange;
+    font-size: 15px;
+    padding: 10px 15px;
+}
