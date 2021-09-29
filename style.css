@@ -9,6 +9,9 @@ body{
     padding: 5%;
     margin-left: 2%;
 }
+h1{
+    font-size: 25px;
+}
 .width img{
     width: 100%;
 }
@@ -16,4 +19,6 @@ button{
     color: orange;
     font-size: 15px;
     padding: 10px 15px;
+    background: orange;
+    border-color: orange;
 }
