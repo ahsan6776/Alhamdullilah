@@ -14,11 +14,11 @@ body{
 h1{
     font-size: 25px;
 }
-img{
+.half-width img{
     width: 100%;
 }
 .kiss{
-    color: orange;
+    color: white;
     font-size: 15px;
     padding: 10px 15px;
     background: orange;
