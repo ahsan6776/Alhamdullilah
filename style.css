@@ -1,0 +1,14 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.color-dissi{
+    color: orange;
+}
+.width{
+    width: 40%;
+    padding: 5%;
+    margin-left: 2%;
+}
+.width img{
+    width: 100%;
+}
