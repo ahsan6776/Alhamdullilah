@@ -7,8 +7,8 @@ body{
 .half-width{
     width: 40%;
     float: left;
-    padding: 5%;
-    margin-left: 1%;
+    padding-left: 2%;
+    margin-left: 5%;
    
 }
 h1{
