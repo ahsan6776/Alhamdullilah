@@ -24,6 +24,7 @@ h1{
     padding: 10px 20px;
     background: orange;
     border-color: orange;
+    text-decoration: none;
 }
 .top-banner{
     background-image:url(./complete-web-development-bangla-resources-master/developer-portfolio/top-banner.png);
