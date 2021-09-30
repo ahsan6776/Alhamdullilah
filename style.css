@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
 .color-dissi{
@@ -12,15 +13,22 @@ body{
    
 }
 h1{
-    font-size: 25px;
+    font-size: 50px;
 }
 .half-width img{
     width: 100%;
 }
 .kiss{
     color: white;
-    font-size: 15px;
-    padding: 10px 15px;
+    font-size: 25px;
+    padding: 10px 25px;
     background: orange;
     border-color: orange;
+}
+.top-banner{
+    background-image:url(./complete-web-development-bangla-resources-master/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
